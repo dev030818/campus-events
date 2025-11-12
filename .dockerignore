@@ -1,0 +1,7 @@
+**/dict
+**/node-modules
+**/.git
+**/.parcel-cache
+**/.gitignore
+**/.dockerignore
+**/.package.json
